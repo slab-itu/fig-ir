@@ -1,1 +1,1 @@
-This folder contains data and code to reproduce the analysis presented in the paper "Parsing Result Figures for Semantically-enriched Summarization of Full-Text Scholarly Documents" submitted at JCDL 2019.
+This folder contains data and code to reproduce the analysis presented in the manuscript submitted to KBS journal for revivew.
